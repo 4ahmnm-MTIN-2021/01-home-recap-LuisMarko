@@ -31,4 +31,3 @@ resolution 960 x 600
 + scripting
 
 copyright by LuisMarko
-# 02-homerecap-LuisMarko
